@@ -12,7 +12,7 @@ This repository is perfect for:
 
 ## 📂 Repository Structure
 ### 📚 Cheat Sheets Included
- ```
+ 
 | No. | Title | Description |
 |:--:|:--------------------------------------------|:------------------------------------------------|
 | 01 | **Basics of Deep Learning** | Overview of AI → ML → DL hierarchy, basic terminologies, and architectures. |
@@ -30,7 +30,7 @@ This repository is perfect for:
 | 13 | **Frameworks: TensorFlow & PyTorch** | Key syntax, training loop commands, and layer creation. |
 | 14 | **Performance Metrics** | Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix. |
 | 15 | **Projects & Best Practices** | Real-world project flow, deployment, and model serving tips. |
-```
+
 ---
 
 ## 🛠️ How to Use
